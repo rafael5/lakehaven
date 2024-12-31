@@ -1,5 +1,5 @@
 # lakehaven
 
-Lake Haven
+Lake Haven view
 
 ![](img/fotor/porch-loop.gif)
