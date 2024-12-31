@@ -1,3 +1,3 @@
 # Lake Haven
 
-![](img)
+![](img/photos/porch-view-clear.png)
