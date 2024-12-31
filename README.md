@@ -2,5 +2,4 @@
 
 Lake Haven
 
-![](img/photos/porch-view-clear.png)
-
+![](img/fotor/porch-loop.gif)
